@@ -50,6 +50,3 @@ Não há etapa de build, backend ou banco de dados. Os projetos adicionados pelo
 
 ## Dificuldades encontradas
 Durante o desenvolvimento, os principais desafios foram ajustar a responsividade do dashboard para diferentes tamanhos de tela, integrar as interações em JavaScript aos estilos do Tailwind CSS e garantir o funcionamento dos temas claro e escuro. Também foi necessário testar a validação do formulário e os estados visuais dos botões para proporcionar uma experiência de uso consistente.
-
-## Observação
-Os nomes, projetos, métricas e atividades exibidos são dados fictícios para demonstração.
